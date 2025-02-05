@@ -1,0 +1,11 @@
+import Home from './Home/Home'
+import Details from './Details/Details'
+import Product from './Product/Product'
+import Orders from './Orders/Orders'
+import Customers from './Customers/Customers'
+import ManageReviews from './ManageReviews/ManageReviews'
+import Checkout from './Checkout/Checkout'
+import Settings from './Settings/Settings'
+import ContactUs from './ContactUs/ContactUs'
+import EditTranscation from './EditTranscation/EditTranscation'
+export  {Home,Details,Product,Orders,Customers,ManageReviews,Checkout,Settings,ContactUs,EditTranscation}
