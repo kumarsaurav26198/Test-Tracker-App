@@ -74,13 +74,13 @@ const SideBarText = ({ navigation }) => {
     //   iconActive: <ManageReviewsActive />,
     //   iconInactive: <ManageReviewsInactive />,
     // },
-    // {
-    //   title: 'Checkout',
-    //   navigate: 'Checkout',
-    //   notificationsCount: 6,
-    //   iconActive: <CheckoutActive />,
-    //   iconInactive: <CheckoutInactive />,
-    // },
+    {
+      title: 'Checkout',
+      navigate: 'Checkout',
+      notificationsCount: 6,
+      iconActive: <CheckoutActive />,
+      iconInactive: <CheckoutInactive />,
+    },
     {
       title: 'Contact Us',
       navigate: "ContactUs",
